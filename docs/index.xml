@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAO Assignment</title>
+    <link>https://thehaseebashraf.github.io/</link>
+    <description>Recent content on CAO Assignment</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_US</language>
+    <lastBuildDate>Thu, 22 Apr 2021 00:36:14 +0500</lastBuildDate><atom:link href="https://thehaseebashraf.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Taks 1</title>
+      <link>https://thehaseebashraf.github.io/post/mycv/</link>
+      <pubDate>Thu, 22 Apr 2021 00:36:14 +0500</pubDate>
+      
+      <guid>https://thehaseebashraf.github.io/post/mycv/</guid>
+      <description>Tools used:  Visual Studio Code Docker QEMU Hugo   Firstly, we use VS code to setup our required files. Our task is to print OK on the screen for which we use some packages using RUN command. We use NASM to compile the code and grub package to get the final file.   The header.asm and main.asm files are contained in the SRC folder. We used two label for start and end of header.</description>
+    </item>
+    
+    <item>
+      <title>Task 2</title>
+      <link>https://thehaseebashraf.github.io/post/my-first-post/</link>
+      <pubDate>Wed, 21 Apr 2021 01:39:34 +0500</pubDate>
+      
+      <guid>https://thehaseebashraf.github.io/post/my-first-post/</guid>
+      <description>In this task we we&amp;rsquo;re asked to print NUST using characters on the screen instead of OK.
+Most of the files remain same as they were in the previous task. But for this we use C language to print “NUST” using &amp;ldquo;*&amp;rdquo; on the screen.
+First we build the stack. It is useful because it return the data every time function completes and also returns the control. We reserved 16kb of memeory for the stack.</description>
+    </item>
+    
+  </channel>
+</rss>
